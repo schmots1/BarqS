@@ -1,7 +1,7 @@
 # BarqS
 Breakout Automation and Replication for QtreeS
 
-Change Log
+## Change Log
 v.1.2
   * NFS export rules now copy over properly.
   * Added ability to exit from group select if entered accidently.
