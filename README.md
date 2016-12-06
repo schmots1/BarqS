@@ -2,6 +2,14 @@
 Breakout Automation and Replication for QtreeS
 
 ## Change Log
+v.2.0
+  * Option 5 will now properly end the tdp relationship if an option 3 wasn't used first.  If an option 3 was used first, system will log the inability to re-break-off the tdp
+  * Main menu updated to switch positions of options 3 and 4 to make the progressive steps make more sense.
+  * 'Back' option added to credential add to allow exiting step instead of having to force kill application.
+  * Multi-threaded mirrors now available
+  * Group status includes the last runs total time
+  * Vfiler sources supported.  Mirrors run over the vfiler0 interface
+
 v.1.2
   * NFS export rules now copy over properly.
   * Added ability to exit from group select if entered accidently.
