@@ -9,6 +9,7 @@ v.2.0
   * Multi-threaded mirrors now available
   * Group status includes the last runs total time
   * Vfiler sources supported.  Mirrors run over the vfiler0 interface
+  * Group status shows total update time.
 
 v.1.2
   * NFS export rules now copy over properly.
